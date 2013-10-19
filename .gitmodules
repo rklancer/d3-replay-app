@@ -1,0 +1,15 @@
+[submodule "example-blocks/4348373-zoomable-sunburst"]
+	path = example-blocks/4348373-zoomable-sunburst
+	url = https://gist.github.com/4348373.git
+[submodule "example-blocks/5699934-adaptive-resampling"]
+	path = example-blocks/5699934-adaptive-resampling
+	url = https://gist.github.com/5699934.git
+[submodule "example-blocks/5028304-sankey-diagram-with-horizontal-and-vertical-node-movement"]
+	path = example-blocks/5028304-sankey-diagram-with-horizontal-and-vertical-node-movement
+	url = https://gist.github.com/5028304.git
+[submodule "example-blocks/6498580-click-to-recenter-brush-ii"]
+	path = example-blocks/6498580-click-to-recenter-brush-ii
+	url = https://gist.github.com/6498580.git
+[submodule "example-blocks/5397710-lorenz-toy"]
+	path = example-blocks/5397710-lorenz-toy
+	url = https://gist.github.com/5397710.git
